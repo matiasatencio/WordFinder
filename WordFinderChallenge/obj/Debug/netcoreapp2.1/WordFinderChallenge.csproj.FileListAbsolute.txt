@@ -1,0 +1,11 @@
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\bin\Debug\netcoreapp2.1\WordFinderChallenge.deps.json
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\bin\Debug\netcoreapp2.1\WordFinderChallenge.runtimeconfig.json
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\bin\Debug\netcoreapp2.1\WordFinderChallenge.runtimeconfig.dev.json
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\bin\Debug\netcoreapp2.1\WordFinderChallenge.dll
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\bin\Debug\netcoreapp2.1\WordFinderChallenge.pdb
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\obj\Debug\netcoreapp2.1\WordFinderChallenge.csprojAssemblyReference.cache
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\obj\Debug\netcoreapp2.1\WordFinderChallenge.csproj.CoreCompileInputs.cache
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\obj\Debug\netcoreapp2.1\WordFinderChallenge.AssemblyInfoInputs.cache
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\obj\Debug\netcoreapp2.1\WordFinderChallenge.AssemblyInfo.cs
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\obj\Debug\netcoreapp2.1\WordFinderChallenge.dll
+C:\Users\matias.atencio\source\repos\WordFinderChallenge\WordFinderChallenge\obj\Debug\netcoreapp2.1\WordFinderChallenge.pdb
